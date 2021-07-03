@@ -1,0 +1,39 @@
+/* taplate view */
+
+@media only screen and (min-width:200px) and (max-width:991px){
+   .review-item{margin-bottom: 40px;}
+   .my-footer{margin-bottom: 35px;}
+   
+    
+}
+
+
+/* mobile view */
+
+@media only screen and (min-width:200px) and (max-width:567px){
+   .service-heading{ margin-bottom: 35px; }
+   .skill-img{margin-top:35px;}
+   h1{font-size: 26px;}
+   h2{font-size: 22px;}
+   .service-heading{margin-bottom: 40px;}
+   h1{font-size: 30px;}
+   h2{font-size: 26px;}
+   h3{font-size: 18px;}
+   .slider-section{padding: 200px 0;}
+
+
+  
+ }
+
+ 
+@media only screen and (min-width:200px) and (max-width:767px){
+   .tastimonial-inner p{font-size: 14px;}
+   .clint-bio ul li p{font-size: 14px;}
+   .about-text{padding: 0 20px;}
+   .bhanner-text p{font-size: 14px;}
+   .prev-btn{left: 10px;}
+   .next-btn{ right: 10px;}
+   
+   
+
+}
